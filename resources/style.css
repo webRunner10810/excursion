@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	font-family: Verdana;
+	font-color: white;
+}
+a {
+	color: aquamarine;
+}
+h1, h2, h3, a {
+	text-align: center;
+	
+}
+	
